@@ -20,10 +20,10 @@ target/
 .classpath
 
 # idea ignore
-.idea/
-*.ipr
-*.iml
-*.iws
+# .idea/
+# *.ipr
+# *.iml
+# *.iws
 
 # temp ignore
 *.log
